@@ -1,20 +1,27 @@
-# Rock-Paper-Scissors (UI Version)
+# Rock-Paper-Scissors (Web UI Version)
 
-A simple Rock-Paper-Scissors game built with JavaScript. Playable in the browser console.
+A simple Rock-Paper-Scissors game built with HTML, CSS, and JavaScript. Now playable directly in the browser using buttons and on-page text, instead of the developer console.
 
-How to Run:
+How to Run
 
-    1. Open index.html in a web browser.
-    2. Open the browser Console (Right-click > Inspect > Console tab).
-    3. Follow the prompts to play.
+    Open index.html in any modern web browser.
+
+    No setup or console required — just start playing on the page.
 
 How to Play:
 
-    - Enter your choice: rock, paper, or scissors.
-    - The computer randomly picks one too.
-    - The result (win, lose, or draw) is shown in the console.
+    -Click one of the buttons: Rock, Paper, or Scissors.
+    -The computer randomly selects its move.
+    -The result (Win, Lose, or Draw) is displayed on the page.
 
-Files:
+Project Files:
 
-    index.html – Minimal HTML to load the script.
-    script.js – Game logic.
+    index.html – Basic HTML structure and UI elements.
+    script.js – Game logic and event handling for button clicks.
+    (Optional) style.css – Add your own styles to customize the look (if applicable).
+
+Features: 
+
+    Interactive UI with buttons for player input.
+    Game results shown dynamically on the web page.
+    Clean and minimal implementation using vanilla JavaScript.
