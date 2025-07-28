@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors (Console Version)
+# Rock-Paper-Scissors (UI Version)
 
 A simple Rock-Paper-Scissors game built with JavaScript. Playable in the browser console.
 
